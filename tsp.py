@@ -25,6 +25,7 @@ def main():
 
     '''animate'''
     sa.animateSolutions()
+    sa.animateSolutions2()
 
     '''show the improvement over time'''
     sa.plotLearning()
